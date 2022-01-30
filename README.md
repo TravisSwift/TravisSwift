@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TravisSwift
 - 👀 I’m interested in learning to code
-- 🌱 I’m currently learning to be a full stack developer 
+- 🌱 I’m currently working towards a certificate for Full Stack Development
 - 💞️ I’m looking to collaborate on class projects
 - 📫 How to reach me travis.arthur.swift@gmail.com
 
