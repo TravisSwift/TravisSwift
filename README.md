@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TravisSwift
 - 👀 I’m interested in learning to code javascript games
-- 🌱 I have earned a certificate as a Full Stack Developer 
+- 🌱 I have earned a certificate as a Full Stack Developer from the University of Texas Bootcamp
 - 💞️ I’m looking to collaborate on class projects
 - 📫 How to reach me travis.arthur.swift@gmail.com
 
